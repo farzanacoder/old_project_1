@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.header_item{
+    background-color: #87509c;
+}
+.nav-link{
+    margin: 10px;
+    border-radius: 5px;
+    transition: .4s;
+}
+.nav-link:hover{
+    background: #643a79;
+    transform: scale(1.1);
+    color: white;
+}
+
+.our_btn{
+    background-color: #eb7d4b;
+    border: none;
+    border-bottom: 5px solid #c86a40;
+    width: 295px;
+    height: 65px;
+    font-size: 1.5rem;
+    font-weight: normal;
+    border-radius: 5px;
+}
+
+.banner_contents{
+    padding: 16vh 0;
+
+}
+
+.b_part{
+    background-color: #17c2a4;
+    padding: 10% 0;
+
+}
+.blank{
+    height: 4px;
+    width: 6px;
+    background: #14a58c;
+}
+.s_part{
+    background: #e7f1f8;
+    padding: 10% 0;
+}
+
+.skills_part{
+    padding: 10% 0;
+
+}
+.p_1{
+    border-radius: 50%;
+    height: 160px;
+    width: 160px;
+}
+.line {
+    width: 100px !important;
+    height: 4px;
+    background: #dfe8ed;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+.l_white{
+    background: #c8d9e5;
+}
+.l_sky{
+    background: #14a58c;
+}
+.l_yellow{
+    background: #e5c37f;
+}
+.l_purple{
+    background: #b73c6d;
+}
+.l_blue{
+    background: #273a71;
+}
+.f_icon i{
+    background: #bdd1df;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    color: #ffffff;
+}
+
+.f_icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.our_btn1{
+    background-color: #17c2a4;
+    border: none;
+    border-bottom: 5px solid #14a58c;
+    width: 295px;
+    height: 65px;
+    font-size: 1.5rem;
+    font-weight: normal;
+    border-radius: 5px;
+}
+.portfolio_part{
+    background-color: #ffdd99;
+    padding: 16vh 0;
+}
+.portfolio1_part{
+    background-color: #d74680;
+    padding: 16vh 0;
+}
+.portfolio2_part{
+    background-color: #3c5499;
+    padding: 16vh 0;
+}
+.btn2{
+    border-bottom: 5px solid #299ec5;
+}
+
+.f_part{
+    background-color: #344b8e;
+    border-top: 2px solid #3c5499;
+}
+.ul_2 li:hover a{
+    color: #30bae7;
+}
+.form_part{
+    /* border-color: #273a71; */
+}
+span{
+    color: #ff4444;
+}
